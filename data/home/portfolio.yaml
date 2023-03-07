@@ -3,37 +3,22 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
+    pretitle: "Ecommercie"
     title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    text: "Looking to develop an eCommerce website? Trust Dev Factory to create a site that meets your
+          needs! With our expertise and experience in web design and development, we provide you with
+          performance services that are tailored to your budget. Contact us today to learn more!"
 
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
+  - image: ""
+    pretitle: "Landing Page"
+    title: "A Web Landing Page"
+    text: "Need to create a standout landing page? Dev Factory is here for you! Our team of professionals
+          specialize in web design and development to provide you with quality services that meet your
+          needs and budget"
 
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Portfolio Service"
     title: "We developed an eCommerce website"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
-      - label: "See live"
-        url: "#"
 
-      - label: "Read more"
-        url: "#"
-
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"

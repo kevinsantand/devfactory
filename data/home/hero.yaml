@@ -1,10 +1,10 @@
 enabled: true
-id: "hero"
+id: "landing"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
-
+  title: "Grow your **online identity** with Dev Factory"
+  text: "Achieve your vision with Dev Factory and make your business thrive"
+  
   buttonPrimary:
     label: "How we work"
     url: "#"
