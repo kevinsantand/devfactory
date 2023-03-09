@@ -2,26 +2,29 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Pricing"
+  text: "We offer flexible IT solutions to fit your needs and budget. We can offer you an e-commerce website and an optimal online marketing strategy.
+        You need something simple and just to be visible on the internet, we create your Landing Page.
+        You already have your website, you just want to have consultation for SEO, we can do that too.
+        If you have any questions or would like to know more about our pricing, please contact us!"
   cards:
-    - image: "images/services-web-development.png"
-      title: "Web development"
+    - image: "images/ecommerce_pricing.png"
+      title: "Website Ecommerce"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:
-        label: "Learn more"
+        label: "Contact us for a quotation"
         url: "#"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
+    - image: "images/landing_page_pricing.png"
+      title: "Landing Page (One page)"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:
-        label: "Learn more"
+        label: "Starting at 1400€"
         url: "#"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
+    - image: "images/SEO_pricing.png"
+      title: "SEO"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:
-        label: "Learn more"
+        label: "Contact us for a quotation"
         url: "#"
