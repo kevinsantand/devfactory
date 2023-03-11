@@ -1,0 +1,8 @@
+enable: true
+id: "contact"
+
+content:
+  title: "Contact us"
+  name: "Name"
+  information: "We'll never share your email with anyone else."
+  button: "Send"

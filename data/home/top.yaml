@@ -4,12 +4,11 @@ id: "landing"
 content:
   title: "Grow your **online identity** with Dev Factory"
   text: "Achieve your vision with Dev Factory and make your business thrive"
-  
+
   buttonPrimary:
     label: "How we work"
-    url: "#"
+    url: "portfolio/#portf"
 
   buttonSecondary:
     label: "Let's talk"
-    url: ""
-
+    url: "https://calendly.com/devfactorymontpellier/30min"

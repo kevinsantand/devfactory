@@ -1,0 +1,60 @@
+<section class="section contact py-5" id="contact">
+  <div class="container container-contact col-8">
+    <div class="row justify-content-center">
+      {{ with .content.title }}
+      <h3 class="fs-1 fw-bold text-center text-primary pb-3">{{ . }}</h3>
+      {{ end }}
+      <form action="https://formspree.io/f/xbjekrba" method="POST">
+        <div class="form-group">
+          <input
+            type="text"
+            class="form-control mb-1"
+            id="name"
+            aria-describedby="nameHelp"
+            placeholder="Enter name"
+            autocomplete="off"
+            pattern="[A-Za-z0-9]+"
+            maxlength="50"
+          />
+          <input
+            type="email"
+            class="form-control mb-1"
+            id="email"
+            aria-describedby="emailHelp"
+            placeholder="Enter email"
+            autocomplete="off"
+            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$"
+            required
+          />
+        </div>
+        <div class="input-group">
+          <textarea
+            class="form-control"
+            placeholder="Leave us a message"
+            name="message"
+            required
+            autocomplete="off"
+            pattern="[A-Za-z0-9\-\_\']+"
+            minlength="10"
+            maxlength="500"
+          ></textarea>
+        </div>
+        {{ with .content.information }}
+        <small id="emailHelp" class="form-text text-muted">{{ . }}</small>
+        {{ end }}
+        <div>
+          {{ with .content.button }}
+          <button
+            type="submit"
+            target="_blank"
+            class="btn btn-outline-primary px-4 mt-3"
+          >
+            {{ . }}
+          </button>
+          {{ end }}
+        </div>
+        <input type="text" name="_gotcha" style="display: none" />
+      </form>
+    </div>
+  </div>
+</section>
