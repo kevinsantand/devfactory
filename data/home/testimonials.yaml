@@ -5,7 +5,7 @@ content:
   title: "Testimonials"
 
   featured:
-    image: "images/testimonials-awards.png"
+    image: "images/testimonials-awards.webp"
     text: Dev Factory has been a pleasure to work with. They provided us with exceptional customer service and a complete website solution that met all our needs. We are extremely pleased with the work they did and highly recommend them to anyone looking for superior quality.
     client: " Andrew White"
 
@@ -18,5 +18,3 @@ content:
 
     - text: Our company used the services of Dev Factory for a custom website design and they delivered perfectly. Their designs are breathtaking and their services are very professional. We are very pleased with the work they did and would recommend them to anyone.
       client: "Anonymous Customer"
-
-

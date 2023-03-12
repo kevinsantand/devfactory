@@ -2,22 +2,27 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Ecommerce"
-    title: "We developed an eCommerce website"
-    text: "Looking to develop an eCommerce website? Trust Dev Factory to create a site that meets your
-          needs! With our expertise and experience in web design and development, we provide you with
-          performance services that are tailored to your budget. Contact us today to learn more!"
+  - image: "images/portfolio-ecommerce.webp"
+    pretitle: "E-commerce"
+    title: "We developed an E-commerce website"
+    anchor: "ecommerce"
+    text:
+      "Looking to develop an E-commerce website? Trust Dev Factory to create a site that meets your
+      needs! With our expertise and experience in web design and development, we provide you with
+      performance services that are tailored to your budget. Contact us today to learn more!"
 
-  - image: "images/landing_page.jpg"
-    pretitle: "Landing Page"
-    title: "A Web Landing Page"
-    text: "Need to create a standout landing page? Dev Factory is here for you! Our team of professionals
-          specialize in web design and development to provide you with quality services that meet your
-          needs and budget"
+  - image: "images/landing_page.webp"
+    pretitle: "Showcase website"
+    title: "A showcase website for a local business"
+    id: "landingtest"
+    anchor: "landing"
+    text:
+      "Need to create a standout showcase website? Dev Factory is here for you! Our team of professionals
+      specialize in web design and development to provide you with quality services that meet your
+      needs and budget"
 
-  - image: "images/seo.png"
+  - image: "images/seo.webp"
     pretitle: "SEO"
+    anchor: "seo"
     title: "Boost Your Website with Dev Factory"
     text: "Maximize your online visibility with Dev Factory's SEO services for exceptional results!"
-

@@ -3,28 +3,40 @@ id: "services"
 
 content:
   title: "Pricing"
-  text: "We offer flexible IT solutions to fit your needs and budget. We can offer you an e-commerce website and an optimal online marketing strategy.
-        You need something simple and just to be visible on the internet, we create your Landing Page.
-        You already have your website, you just want to have consultation for SEO, we can do that too.
-        If you have any questions or would like to know more about our pricing, please contact us!"
+  text:
+    "We offer flexible IT solutions to fit your needs and budget. We can offer you an e-commerce website and an optimal online marketing strategy.
+    You need something simple and just to be visible on the internet, we create your Landing Page.
+    You already have your website, you just want to have consultation for SEO, we can do that too.
+    If you have any questions or would like to know more about our pricing, please contact us!"
   cards:
-    - image: "images/ecommerce_pricing.png"
+    - image: "images/ecommerce_pricing.webp"
       title: "Website Ecommerce"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: "Design, Development and marketing of E-commerce websites. 
+We master the latest technologies and provide cost-effective solutions for incredible results. 
+We also take care of an effective SEO strategy to help you generate traffic and position your website in the search results and get a better ranking in the search engines."
       button:
         label: "Contact us for a quotation"
-        url: "#"
+        url: "#contact"
 
     - image: "images/landing_page_pricing.png"
-      title: "Landing Page (One page)"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Showcase website"
+      text:
+        "We offer quality services to help you create professional websites
+        and state of art websites. 
+        Our services include modern landing pages, showcase sites' elegant designs, and exceptional functionality. We strive to provide quality services and quality services and technological solutions to help you improve your online presence and visibility on the web."
       button:
         label: "Starting at 1400€"
-        url: "#"
+        url: "#contact"
 
-    - image: "images/SEO_pricing.png"
+    - image: "images/SEO_pricing.webp"
       title: "SEO"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text:
+        "To help you improve your visibility and traffic on search engines. <br>
+        We offer comprehensive SEO services, including SEO analysis, search engine optimization, content marketing
+        keyword research and load speed optimization. All of our services are fully customized
+        customized and designed to meet the specific needs of your business. We take the time to
+        time to understand your business and its goals and work with you to help you achieve your
+        to help you achieve your goals."
       button:
         label: "Contact us for a quotation"
-        url: "#"
+        url: "#contact"

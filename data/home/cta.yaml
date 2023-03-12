@@ -3,7 +3,7 @@ id: "cta"
 
 content:
   title: "Start your business now!"
-  image: "images/services-web-development.png"
+  image: "images/services-web-development.webp"
   button:
     label: "Let's talk"
     url: "https://calendly.com/devfactorymontpellier/30min"
