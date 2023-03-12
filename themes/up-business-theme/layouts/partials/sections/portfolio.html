@@ -1,4 +1,4 @@
-<section class="section portfolio" id="portf">
+<section class="section portfolio" id="products">
   <div class="container">
     {{ range .content }}
     <div class="row portfolio-feature">
@@ -9,7 +9,7 @@
         {{ with .pretitle }}
         <p class="text-danger fw-semibold mb-2">{{ . }}</p>
         {{ end }} {{ with .title }}
-        <h3 class="fs-1 fw-bold text-primary pb-3">{{ . }}</h3>
+        <h3 class="fs-1 fw-bold text-primary pb-3" id="landing">{{ . }}</h3>
         {{ end }} {{ with .text }}
         <p class="text-black-61 pb-3">{{ . }}</p>
         {{ end }}

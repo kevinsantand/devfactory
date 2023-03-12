@@ -6,8 +6,8 @@ content:
   text: "Achieve your vision with Dev Factory and make your business thrive"
 
   buttonPrimary:
-    label: "How we work"
-    url: "portfolio/#portf"
+    label: "See  more"
+    url: "#products"
 
   buttonSecondary:
     label: "Let's talk"
