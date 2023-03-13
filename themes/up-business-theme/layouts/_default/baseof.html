@@ -1,9 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   {{ partial "head/head.html" . }}
   <body>
-    {{- partial "shared/header.html" . -}}
-    {{- block "main" . -}}{{- end -}}
-    {{- partial "shared/footer.html" . -}}
+    {{- partial "shared/header.html" . -}} {{- block "main" . -}}{{- end -}} {{-
+    partial "shared/footer.html" . -}}
   </body>
 </html>
