@@ -1,6 +1,6 @@
 baseURL: "https://www.devfactory.fr/"
 theme: "up-business-theme"
-languageCode: "en-us"
+languageCode: "fr-FR"
 
 title: Dev Factory
 
@@ -9,10 +9,8 @@ title: Dev Factory
 summaryLength: 20
 
 params:
-  title: "Dev Factory"
-  description:
-    "We specialize in providing services to desing websites, applications, build and
-    maintain business for customers."
+  title: "Dev Factory - Web Design & Development Agency"
+  description: "Nous créons et maintenons des solutions sur mesure pour votre entreprise"
   images:
     - "images/hero-image.webp"
 
@@ -34,7 +32,7 @@ params:
 
   contact:
     - "contact@devfactory.fr"
-    - "07 69 28 07 96"
+    - "+33 7 69 28 07 96"
 
   copyright: "© 2022 Dev Factory All Rights Reserved"
 
@@ -46,11 +44,11 @@ menus:
       url: "/"
       weight: 1
 
-    - name: "Products"
+    - name: "Produits"
       url: "#products"
       weight: 2
 
-    - name: "Pricing"
+    - name: "Services"
       url: "#pricing"
       weight: 3
 
@@ -59,7 +57,7 @@ menus:
       weight: 4
 
   buttons:
-    - name: "Book a call"
+    - name: "Parlons-en"
       url: "https://calendly.com/devfactorymontpellier/30min"
       weight: 5
       pre: "btn btn-primary text-light"
@@ -69,11 +67,11 @@ menus:
       url: "/"
       weight: 1
 
-    - name: "Products"
+    - name: "Produits"
       url: "#Products"
       weight: 2
 
-    - name: "Pricing"
+    - name: "Services"
       url: "#pricing"
       weight: 3
 
@@ -84,3 +82,11 @@ menus:
 taxonomies:
   series: "series"
   tags: "tags"
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+  fr:
+    languageName: Français
+    weight: 2

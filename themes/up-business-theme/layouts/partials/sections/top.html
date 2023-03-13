@@ -15,7 +15,7 @@
         </h3>
         {{ end }} {{ with .content.text }}
         <p class="text-center text-black-61 text-xl-start pb-4">
-          {{ . | markdownify }}
+          {{ . | safeHTML}}
         </p>
         {{ end }}
         <div class="d-flex flex-column flex-xl-row">

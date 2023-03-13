@@ -2,13 +2,15 @@ enabled: true
 id: "landing"
 
 content:
-  title: "Grow your **online identity** with Dev Factory"
-  text: "Achieve your vision with Dev Factory and make your business thrive"
+  title: "Développez votre identité en ligne"
+  text: >
+    Nous sommes une agence de développement Web basée à Montpellier, <br />
+    Nous offrons des services de développement Web de qualité qui répondent à vos besoins et à votre budget.
 
   buttonPrimary:
-    label: "See  more"
+    label: "Voir Nos Services"
     url: "#products"
 
   buttonSecondary:
-    label: "Let's talk"
+    label: "Parlons-en"
     url: "https://calendly.com/devfactorymontpellier/30min"

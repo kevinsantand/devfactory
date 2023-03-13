@@ -2,41 +2,51 @@ enabled: true
 id: "services"
 
 content:
-  title: "Pricing"
-  text:
-    "We offer flexible IT solutions to fit your needs and budget. We can offer you an e-commerce website and an optimal online marketing strategy.
-    You need something simple and just to be visible on the internet, we create your Landing Page.
-    You already have your website, you just want to have consultation for SEO, we can do that too.
-    If you have any questions or would like to know more about our pricing, please contact us!"
+  title: "Services"
+  text: >
+    Nous offrons des solutions informatiques flexibles pour répondre à vos besoins et votre budget. <br /> 
+    Nous pouvons vous proposer un site e-commerce et une stratégie marketing en ligne optimale. <br /><br />
+    Vous avez besoin de quelque chose de simple et juste pour être visible sur internet, nous créons votre page d'accueil.
+    Vous avez déjà votre site Web, vous souhaitez simplement avoir une consultation SEO, nous pouvons également le faire.
+    <br /><br /> Si vous avez des questions ou souhaitez plus d'informations sur nos tarifs, veuillez nous contacter!
+
   cards:
     - image: "images/ecommerce_pricing.webp"
-      title: "Website Ecommerce"
-      text: "Design, Development and marketing of E-commerce websites. 
-We master the latest technologies and provide cost-effective solutions for incredible results. 
-We also take care of an effective SEO strategy to help you generate traffic and position your website in the search results and get a better ranking in the search engines."
+      title: "Site E-commerce"
+      text: >
+        Nous maîtrisons les dernières technologies et proposons des solutions abordables pour des résultats
+        incroyables.<br /><br /> Nous veillons également à une stratégie SEO efficace pour vous aider à générer du trafic
+        et à placer votre site Web dans les résultats de recherche et à obtenir un meilleur classement
+        dans les moteurs de recherche. <br /><br />Nous sommes spécialisés dans la conception, le développement et
+        le marketing de sites Web de commerce électronique
+
       button:
-        label: "Contact us for a quotation"
+        label: "Contactez-nous pour un devis"
         url: "#contact"
 
     - image: "images/landing_page_pricing.png"
-      title: "Showcase website"
+      title: "Site Vitrine"
       text:
-        "We offer quality services to help you create professional websites
-        and state of art websites. 
-        Our services include modern landing pages, showcase sites' elegant designs, and exceptional functionality. We strive to provide quality services and quality services and technological solutions to help you improve your online presence and visibility on the web."
+        Nous offrons des services de qualité pour vous aider à créer des sites Web professionnels et
+        des sites d'avant-garde. <br /><br /> Nos services comprennent des pages d'accueil modernes,
+        des designs élégants de sites de présentation et une fonctionnalité exceptionnelle. <br /><br />
+        Nous nous efforçons de fournir des services et des solutions technologiques de qualité pour vous
+        aider à améliorer votre présence en ligne et votre visibilité sur le Web.
+
       button:
-        label: "Starting at 1400€"
+        label: "À partir de 1400€"
         url: "#contact"
 
     - image: "images/SEO_pricing.webp"
       title: "SEO"
       text:
-        "To help you improve your visibility and traffic on search engines. <br>
-        We offer comprehensive SEO services, including SEO analysis, search engine optimization, content marketing
-        keyword research and load speed optimization. All of our services are fully customized
-        customized and designed to meet the specific needs of your business. We take the time to
-        time to understand your business and its goals and work with you to help you achieve your
-        to help you achieve your goals."
+        Pour vous aider à améliorer votre visibilité et votre trafic sur les moteurs de recherche. <br><br />
+        Nous offrons des services complets SEO, notamment une analyse SEO, une optimisation des moteurs
+        de recherche, un marketing de contenu, une recherche de mots-clés et une optimisation de la vitesse de chargement.
+        <br /><br /> Tous nos services sont entièrement personnalisés et conçus pour répondre aux besoins
+        spécifiques de votre entreprise. <br /><br />Nous prenons le temps de comprendre votre entreprise
+        et ses objectifs et nous travaillons avec vous pour vous aider à atteindre vos objectifs.
+
       button:
-        label: "Contact us for a quotation"
+        label: "Contactez-nous pour un devis"
         url: "#contact"

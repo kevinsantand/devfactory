@@ -2,8 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Start your business now!"
+  title: "Commençons votre projet aujourd'hui"
   image: "images/services-web-development.webp"
   button:
-    label: "Let's talk"
+    label: "Parlons-en"
     url: "https://calendly.com/devfactorymontpellier/30min"
