@@ -9,7 +9,7 @@ title: Dev Factory
 summaryLength: 20
 
 params:
-  title: "Dev Factory"
+  title: "Dev Factory - Web Design & Development Agency"
   description:
     "We specialize in providing services to desing websites, applications, build and
     maintain business for customers."
@@ -34,7 +34,7 @@ params:
 
   contact:
     - "contact@devfactory.fr"
-    - "07 69 28 07 96"
+    - "+33 7 69 28 07 96"
 
   copyright: "© 2022 Dev Factory All Rights Reserved"
 
@@ -84,3 +84,11 @@ menus:
 taxonomies:
   series: "series"
   tags: "tags"
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+  fr:
+    languageName: Français
+    weight: 2
