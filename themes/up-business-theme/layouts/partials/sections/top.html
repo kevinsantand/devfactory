@@ -8,11 +8,11 @@
       </div>
       <div class="col-12 col-xl-6 d-flex flex-column justify-content-center">
         {{ with .content.title }}
-        <h3
+        <h1
           class="hero-title fw-bold display-1 text-primary text-center text-xl-start pb-4"
         >
           {{ . | markdownify }}
-        </h3>
+        </h1>
         {{ end }} {{ with .content.text }}
         <p class="text-center text-black-61 text-xl-start pb-4">
           {{ . | safeHTML}}
@@ -20,10 +20,7 @@
         {{ end }}
         <div class="d-flex flex-column flex-xl-row">
           {{ with .content.buttonPrimary }}
-          <a
-            id="openModal"
-            class="btn btn-primary text-light px-4 my-1"
-            href="{{ .url }}"
+          <a class="btn btn-primary text-light px-4 my-1" href="{{ .url }}"
             >{{ .label }}</a
           >
           {{ end }} {{ with .content.buttonSecondary }}

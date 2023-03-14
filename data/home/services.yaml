@@ -24,7 +24,7 @@ content:
         label: "Contactez-nous pour un devis"
         url: "#contact"
 
-    - image: "images/landing_page_pricing.png"
+    - image: "images/landing_page_pricing.webp"
       title: "Site Vitrine"
       text:
         Nous offrons des services de qualité pour vous aider à créer des sites Web professionnels et

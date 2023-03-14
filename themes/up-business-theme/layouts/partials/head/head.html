@@ -1,11 +1,25 @@
 <head>
   <!-- Title -->
-  <title>{{ .Site.Title }} {{ with .Title }} | {{ . }} {{ end }}</title>
+  <title>Dev Factory - Web Design & Development Agency</title>
 
   <!-- Meta -->
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
-  <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{end}}" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+  />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="description"
+    content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{end}}"
+  />
+  <meta
+    name="keywords"
+    content="{{ if .IsHome }}{{ .Site.Params.keywords }}{{ else if .Keywords }}{{ .Keywords }}{{ else }}{{ .Site.Params.keywords }}{{end}}"
+  />
+  <meta name="author" content="{{ .Site.Params.author }}" />
+  <meta name="copyright" content="{{ .Site.Params.copyright }}" />
+  <meta name="robots" content="index, follow" />
 
   <!-- Favicons and Manifest -->
   {{ partial "head/_favicons.html" . }}
@@ -17,7 +31,7 @@
   {{ partial "head/_resources.html" . }}
 
   <!-- RSS -->
-  {{ range .AlternativeOutputFormats -}}
-    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-  {{ end -}}
+  {{ range .AlternativeOutputFormats -}} {{ printf `
+  <link rel="%s" type="%s" href="%s" title="%s" />
+  ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}}
 </head>
