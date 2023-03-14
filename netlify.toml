@@ -5,3 +5,16 @@
 [build.environment]
   HUGO_VERSION = "0.83.1"
 
+## Cache Control
+# Paste the below in https://play.netlify.com/headers to test
+# Set max-age to 1 year (31536000 seconds) for stuff not expected to
+# update any time soon.
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/js/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"

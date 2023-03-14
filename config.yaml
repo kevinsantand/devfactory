@@ -10,7 +10,39 @@ summaryLength: 20
 
 params:
   title: "Dev Factory - Web Design & Development Agency"
-  description: "Nous créons et maintenons des solutions sur mesure pour votre entreprise"
+  description:
+    "Nous sommes une agence de développement web spécialisée dans la création et le maintien
+    de solutions sur mesure pour votre entreprise. Nous proposons des sites vitrines, des applications
+    mobiles, des sites e-commerce et des prestations SEO afin de vous garantir une présence en ligne optimale, fiable et sécurisée."
+  keywords:
+    - "Développement Web"
+    - "Développement Mobile"
+    - "Développement d'applications"
+    - "Développement d'applications mobiles"
+    - "Développement d'applications web"
+    - "Développement d'applications web mobiles"
+    - "Site internet"
+    - "Site vitrine"
+    - "Site e-commerce"
+    - "Site web"
+    - "Creation de site internet"
+    - "Creation de site web"
+    - "Creation de site e-commerce"
+    - "Référencement"
+    - "Référencement naturel"
+    - "Référencement SEO"
+    - "Référencement Google"
+    - "Référencement Google Ads"
+    - "Référencement Google Adwords"
+    - "Developpement Web"
+    - "Developpement Mobile"
+    - "Developpement d'applications"
+    - "Developpement d'applications mobiles"
+    - "Developpement d'applications web"
+    - "Securite informatique"
+    - "Securite web"
+  copyright: "© 2022 Dev Factory All Rights Reserved"
+  author: "Dev Factory"
   images:
     - "images/hero-image.webp"
 
