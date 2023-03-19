@@ -18,7 +18,6 @@ content:
   - image: "images/landing_page.webp"
     pretitle: "Site vitrine"
     title: "Un site vitrine pour présenter votre entreprise"
-    id: "landingtest"
     anchor: "landing"
     text:
       Vous voulez créer un site Web vitrine qui offre une valeur ajoutée à votre entreprise? Dev Factory

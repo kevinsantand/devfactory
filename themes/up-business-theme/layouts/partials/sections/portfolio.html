@@ -15,7 +15,10 @@
         {{ end }}
         <div class="">
           {{ range .buttons }}
-          <a class="text-decoration-none me-3" href="{{ .url }}"
+          <a
+            class="text-decoration-none me-3"
+            href="{{ .url }}"
+            title="{{ .Permalink }}"
             >{{ .label }}</a
           >
           {{ end }}

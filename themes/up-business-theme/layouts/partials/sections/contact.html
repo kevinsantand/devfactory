@@ -19,7 +19,7 @@
           />
           <input
             type="email"
-            class="form-control mb-1"
+            class="form-control mb-1 "
             id="email"
             name="email"
             aria-describedby="emailHelp"
@@ -36,7 +36,6 @@
             name="message"
             required
             autocomplete="off"
-            pattern="[A-Za-z0-9\-\_\']+"
             minlength="10"
             maxlength="500"
           ></textarea>
@@ -46,13 +45,12 @@
         {{ end }}
         <div>
           {{ with .content.button }}
-          <button
-            type="submit"
-            target="_blank"
-            class="btn btn-outline-primary px-4 mt-3"
-          >
-            {{ . }}
-          </button>
+            <button
+              type="submit"
+              class="btn btn-outline-primary px-4 mt-3">
+              {{ . }}
+            </button>
+          </a>
           {{ end }}
         </div>
         <input type="text" name="_gotcha" style="display: none" />

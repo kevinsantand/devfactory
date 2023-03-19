@@ -1,4 +1,18 @@
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-4LWKLH1PGH"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+
+    gtag("config", "G-4LWKLH1PGH");
+  </script>
   <!-- Title -->
   <title>Dev Factory - Web Design & Development Agency</title>
 
@@ -20,6 +34,25 @@
   <meta name="author" content="{{ .Site.Params.author }}" />
   <meta name="copyright" content="{{ .Site.Params.copyright }}" />
   <meta name="robots" content="index, follow" />
+  <meta
+    property="og:title"
+    content="Dev Factory - Web Design & Development
+  Agency"
+  />
+  <meta property="og:site_name" content="Dev Factory" />
+  <meta property="og:url" content=https://www.devfactory.fr>
+  <meta
+    property="og:description"
+    content="Nous sommes une agence de développement web
+  spécialisée dans la création et le maintien de solutions sur mesure pour votre
+  entreprise. Nous proposons des sites vitrines, des applications mobiles, des
+  sites e-commerce et des prestations SEO afin de vous garantir une présence en
+  ligne optimale, fiable et sécurisée."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:image"
+  content=https://www.devfactory.fr/images/hero-image.webp>
+  <link rel="canonical" href="https://devfactory.fr/" />
 
   <!-- Favicons and Manifest -->
   {{ partial "head/_favicons.html" . }}

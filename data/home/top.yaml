@@ -1,5 +1,4 @@
 enabled: true
-id: "landing"
 
 content:
   title: "Développez votre identité en ligne"
@@ -10,7 +9,9 @@ content:
   buttonPrimary:
     label: "Voir Nos Services"
     url: "#products"
+    title: "Voir Nos Services"
 
   buttonSecondary:
     label: "Parlons-en"
     url: "https://calendly.com/devfactorymontpellier/30min"
+    alt: "Calendly Dev Factory"

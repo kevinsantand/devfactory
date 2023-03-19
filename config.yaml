@@ -46,6 +46,7 @@ params:
   images:
     - "images/hero-image.webp"
 
+
   logo: "arrow-up.png"
 
   favicons:
@@ -78,6 +79,7 @@ menus:
 
     - name: "Produits"
       url: "#products"
+      title: "Nos Produits"
       weight: 2
 
     - name: "Services"
@@ -91,6 +93,7 @@ menus:
   buttons:
     - name: "Parlons-en"
       url: "https://calendly.com/devfactorymontpellier/30min"
+      alt: "Calendly Dev Factory"
       weight: 5
       pre: "btn btn-primary text-light"
 
@@ -101,6 +104,7 @@ menus:
 
     - name: "Produits"
       url: "#Products"
+      title: "Produits"
       weight: 2
 
     - name: "Services"
