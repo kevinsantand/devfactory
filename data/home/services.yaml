@@ -12,26 +12,29 @@ content:
 
   cards:
     - image: "images/ecommerce_pricing.webp"
-      title: "Site E-commerce"
+      title: "Conception e-commerce"
       text: >
-        Nous maîtrisons les dernières technologies et proposons des solutions abordables pour des résultats
-        incroyables.<br /><br /> Nous veillons également à une stratégie SEO efficace pour vous aider à générer du trafic
-        et à placer votre site Web dans les résultats de recherche et à obtenir un meilleur classement
-        dans les moteurs de recherche. <br /><br />Nous sommes spécialisés dans la conception, le développement et
-        le marketing de sites Web de commerce électronique
+        Notre agence web est spécialisée dans la conception et le développement de <strong>sites e-commerce performants</strong>,
+        adaptés à  <strong>vos besoins</strong> et à  <strong>votre budget</strong>. Nous utilisons les dernières technologies pour vous offrir <strong>des solutions abordables</strong>
+        avec des résultats incroyables. <br /><br />Nous accordons également une grande importance à la mise en place
+        d'une  <strong>stratégie SEO efficace</strong> pour vous aider à générer du trafic qualifié et à améliorer votre positionnement
+        dans les résultats de recherche.<br /> <br /> Nous vous accompagnons tout au long du processus de création de <strong>votre site e-commerce</strong>,
+        de la conception à la mise en ligne, en vous offrant <strong>un service personnalisé</strong> et de <strong>qualité</strong>.
 
       button:
         label: "Contactez-nous pour un devis"
         url: "#contact"
 
     - image: "images/landing_page_pricing.webp"
-      title: "Site Vitrine"
+      title: "Conception Site Vitrine"
       text:
-        Nous offrons des services de qualité pour vous aider à créer des sites Web professionnels et
-        des sites d'avant-garde. <br /><br /> Nos services comprennent des pages d'accueil modernes,
-        des designs élégants de sites de présentation et une fonctionnalité exceptionnelle. <br /><br />
-        Nous nous efforçons de fournir des services et des solutions technologiques de qualité pour vous
-        aider à améliorer votre présence en ligne et votre visibilité sur le Web.
+        Nous offrons des <strong>services de qualité</strong> pour vous aider à créer des <strong>sites Web professionnels</strong> et
+        des <strong>sites d'avant-garde</strong>. <br /><br /> Nos services comprennent des <strong>pages d'accueil modernes</strong>,
+        des <strong>designs élégants</strong> de sites de présentation et une <strong>fonctionnalité exceptionnelle</strong>. <br /><br />
+        Nous nous efforçons de fournir des services et des <strong>solutions technologiques de qualité</strong> pour vous
+        aider à <strong>améliorer votre présence en ligne et votre visibilité sur internet</strong>.<br /><br />
+        Notre expertise en matière de <strong>référencement naturel</strong> nous permettra également d'optimiser votre site web
+        pour les moteurs de recherche, de manière à ce que <strong>votre entreprise soit facilement trouvable par vos clients potentiels</strong>.
 
       button:
         label: "À partir de 1400€"
@@ -39,13 +42,12 @@ content:
 
     - image: "images/SEO_pricing.webp"
       title: "SEO"
-      text:
-        Pour vous aider à améliorer votre visibilité et votre trafic sur les moteurs de recherche. <br><br />
-        Nous offrons des services complets SEO, notamment une analyse SEO, une optimisation des moteurs
-        de recherche, un marketing de contenu, une recherche de mots-clés et une optimisation de la vitesse de chargement.
-        <br /><br /> Tous nos services sont entièrement personnalisés et conçus pour répondre aux besoins
-        spécifiques de votre entreprise. <br /><br />Nous prenons le temps de comprendre votre entreprise
-        et ses objectifs et nous travaillons avec vous pour vous aider à atteindre vos objectifs.
+      text: >
+        Nous vous aidons à <strong>améliorer votre visibilité</strong> et votre <strong>trafic</strong> sur les moteurs de recherche grâce à nos services complets de <strong>référencement naturel</strong>.<br /><br />
+        Notre équipe vous propose une <strong>analyse approfondie de votre site web</strong>, une <strong>optimisation</strong> des moteurs de recherche, une <strong>stratégie de marketing de contenu</strong>,
+        une recherche de <strong>mots-clés pertinents</strong> et une <strong>amélioration de la vitesse de chargement</strong><br /><br />
+        Tous nos services sont <strong>entièrement personnalisés</strong> et conçus pour répondre aux besoins spécifiques de votre entreprise.
+        Nous prenons le temps de <strong>comprendre votre entreprise</strong>et <strong>ses objectifs</strong> pour vous aider à atteindre vos objectifs en termes de <strong>référencement naturel</strong>.
 
       button:
         label: "Contactez-nous pour un devis"

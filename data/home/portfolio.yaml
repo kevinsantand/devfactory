@@ -3,32 +3,43 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.webp"
-    pretitle: "E-commerce"
-    title: "Nous créons des sites e-commerce qui génèrent des résultats"
+    pretitle: "Création de sites e-commerce"
+    title: "<strong>Boostez vos ventes</strong> en ligne avec un site e-commerce performant"
     anchor: "ecommerce"
     text: >
-      Voulez-vous créer un site e-commerce facile à utiliser et à gérer ? <br /> <br />Dev Factory est là pour vous
-      Nous pouvons vous aider à créer un site e-commerce qui répond à vos besoins et à votre budget.<br /><br />
-      Notre équipe vous accompagnera tout au long du processus de développement pour vous assurer que
-      votre site est prêt à offrir une expérience client optimale et à générer des résultats positifs
-      pour votre entreprise.<br /><br /> N'attendez plus et contactez-nous aujourd'hui pour en savoir plus sur les
-      services que nous proposons et sur la façon dont nous pouvons vous aider à développer votre site
-      e-commerce!
+      Vous souhaitez créer un <strong>site e-commerce performant</strong>, facile à utiliser et à gérer ?<br /> <em>Dev Factory</em>, 
+      <strong> expert en développement web</strong>, est là pour vous aider à <strong>réaliser votre projet</strong>.<br /><br />
+      Nous mettons à votre disposition une <strong>équipe compétente</strong> pour concevoir un <strong>site sur mesure</strong>, <strong>adapté à vos besoins</strong>
+      et à <strong>votre budget</strong>.<br /><br />
+      <strong> Notre expertise</strong>  en matière de développement web nous permettra de vous accompagner tout au long
+      du processus de création de votre <strong>site e-commerce</strong>, de la conception à la mise en ligne.<br /><br />
+      Nous veillerons à ce que votre site soit <strong>optimisé pour offrir une expérience utilisateur irréprochable</strong>
+      et <strong>générer des résultats positifs pour votre entreprise</strong>.<br /><br />
+      N'hésitez plus et contactez-nous dès aujourd'hui pour découvrir <strong>nos services de développement web</strong> 
+      sur mesure pour votre site e-commerce. <strong><br />Nos experts</strong> seront ravis de vous accompagner dans <strong> votre projet</strong>.
 
   - image: "images/landing_page.webp"
-    pretitle: "Site vitrine"
-    title: "Un site vitrine pour présenter votre entreprise"
+    pretitle: "Créez une présence en ligne avec un site vitrine professionnel"
+    title: >
+      Site vitrine sur mesure : <br /> Valorisez votre entreprise en ligne
     anchor: "landing"
-    text:
-      Vous voulez créer un site Web vitrine qui offre une valeur ajoutée à votre entreprise? Dev Factory
-      est votre solution.<br />
-      Notre équipe de professionnels spécialisés en design et développement Web vous offre des services
-      de qualité qui répondent à vos besoins et à votre budget
+    text: >
+      Vous souhaitez créer un <strong>site vitrine performant</strong> pour votre entreprise ?<br /> <em>Dev Factory</em> vous offre la solution !
+      <br /><br />Notre équipe de professionnels en design et développement web vous propose des <strong>services de qualité</strong>
+      sur mesure pour répondre à tous vos besoins. <br />  <br />Nous sommes à l'écoute de votre budget et travaillons
+      avec vous pour atteindre <strong>vos objectifs commerciaux</strong> en ligne. <br /><br /> Avec <strong>notre expertise</strong>, vous pouvez vous démarquer
+      de la <strong>concurrence</strong> et offrir une véritable <strong>valeur ajoutée</strong> à votre entreprise.
 
   - image: "images/seo.webp"
-    pretitle: "SEO"
+    pretitle: "SEO - Référencement naturel"
     anchor: "seo"
-    title: "Augmentez Votre Trafic avec le SEO!"
-    text:
-      "Optimisez votre visibilité en ligne avec les services de référencement de Dev Factory pour
-      des résultats exceptionnels !"
+    title: "Augmentez Votre Trafic avec le Référencement Naturel!"
+    text: >
+      Le <strong>référencement naturel</strong> est une étape cruciale pour toute entreprise souhaitant être visible
+      sur les moteurs de recherche et attirer un maximum de <strong>clients potentiels</strong>.<br/> <br/> 
+      Chez <em>Dev Factory</em>, notre équipe d'experts en <strong>SEO</strong> travaille en étroite collaboration avec vous pour identifier les mots-clés
+      pertinents pour votre entreprise et optimiser votre site web en conséquence.<br/> <br/>
+      Nous nous engageons à vous fournir un travail de qualité, respectant les dernières normes en matière de SEO,
+      afin de garantir à votre entreprise une visibilité accrue sur les moteurs de recherche.
+      Contactez-nous dès maintenant pour en savoir plus sur <strong>nos services de référencement naturel</strong> et
+      <strong>augmenter votre trafic en ligne </strong>!

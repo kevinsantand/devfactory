@@ -11,9 +11,7 @@ summaryLength: 20
 params:
   title: "Dev Factory - Web Design & Development Agency"
   description:
-    "Nous sommes une agence de développement web spécialisée dans la création et le maintien
-    de solutions sur mesure pour votre entreprise. Nous proposons des sites vitrines, des applications
-    mobiles, des sites e-commerce et des prestations SEO afin de vous garantir une présence en ligne optimale, fiable et sécurisée."
+    "Développement web sur mesure pour votre entreprise : sites vitrines, applications mobiles, e-commerce et SEO. Optimisez votre présence en ligne avec notre agence fiable et sécurisée."
   keywords:
     - "Développement Web"
     - "Développement Mobile"

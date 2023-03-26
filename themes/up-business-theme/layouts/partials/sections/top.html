@@ -9,10 +9,14 @@
       <div class="col-12 col-xl-6 d-flex flex-column justify-content-center">
         {{ with .content.title }}
         <h1
-          class="hero-title fw-bold display-1 text-primary text-center text-xl-start pb-4"
+          class="hero-title fw-bold display-2 text-primary text-center text-xl-start pb-2"
         >
           {{ . | markdownify }}
         </h1>
+        {{ end }} {{ with .content.subtitle }}
+        <h2 class="display-7 text-danger text-left pb-4">
+          {{ . | markdownify }}
+        </h2>
         {{ end }} {{ with .content.text }}
         <p class="text-center text-black-61 text-xl-start pb-4">
           {{ . | safeHTML}}

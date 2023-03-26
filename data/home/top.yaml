@@ -2,9 +2,15 @@ enabled: true
 
 content:
   title: "Développez votre identité en ligne"
+  subtitle: "Une présence en ligne optimale, fiable et sécurisée pour votre activité."
   text: >
-    Nous sommes une agence de développement Web basée à Montpellier, <br />
-    Nous offrons des services de développement Web de qualité qui répondent à vos besoins et à votre budget.
+    <strong>Agence de développement web spécialisée</strong> dans les solutions sur mesure pour votre entreprise.<br /> <br />
+    Notre agence vous offre <strong>des services de qualité</strong> pour vous accompagner dans <strong>votre présence en ligne</strong>.<br />
+    Nous concevons des <strong>sites vitrines<strong>, des </strong>sites e-commerce</strong> et proposons également
+    des <strong>services de référencement naturel (SEO)</strong> pour optimiser votre visibilité en ligne. <br /><br />
+    Notre équipe de professionnels est à l'écoute de vos besoins pour vous offrir des <strong>solutions sur mesure</strong>
+    qui répondent à vos attentes.<br /><br /> Nous nous engageons à vous offrir une présence en ligne <strong>optimale</strong>, 
+    <strong>fiable</strong> et <strong>sécurisée</strong> pour votre activité
 
   buttonPrimary:
     label: "Voir Nos Services"
