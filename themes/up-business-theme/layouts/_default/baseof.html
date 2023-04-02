@@ -2,7 +2,7 @@
 <html lang="fr">
   {{ partial "head/head.html" . }}
   <body>
-    {{- partial "shared/header.html" . -}} {{- block "main" . -}}{{- end -}} {{-
-    partial "shared/footer.html" . -}} 
+    {{- partial "shared/header.html" . -}} {{- block "main" . -}} {{- partial
+    "consent.html" . }}{{- end -}} {{- partial "shared/footer.html" . -}}
   </body>
 </html>
