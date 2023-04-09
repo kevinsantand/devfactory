@@ -1,6 +1,5 @@
 <head>
   <!-- Google tag (gtag.js) -->
-  {{/*
   <script
     async
     src="https://www.googletagmanager.com/gtag/js?id=G-4LWKLH1PGH"
@@ -14,7 +13,7 @@
 
     gtag("config", "G-4LWKLH1PGH");
   </script>
-  */}}
+
   <!-- Title -->
   <title>Dev Factory - Agence web | Sites vitrines, e-commerce et SEO</title>
 
@@ -60,5 +59,6 @@
   <!-- RSS -->
   {{ range .AlternativeOutputFormats -}} {{ printf `
   <link rel="%s" type="%s" href="%s" title="%s" />
-  ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}}
+  ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}} {{-
+  template "partials/cookie-consent.html" . }}
 </head>
