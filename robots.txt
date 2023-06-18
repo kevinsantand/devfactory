@@ -2,3 +2,8 @@ User-Agent: *
 Allow: /
 User-agent: Googlebot
 Sitemap: https://devfactory.fr/sitemap.xml
+Disallow: /post/rich-content/?PageSpeed=noscript
+Disallow: /post/math-typesetting/
+Disallow: /post/emoji-support/
+Disallow: /post/math-typesetting/?PageSpeed=noscript
+Disallow: /series/

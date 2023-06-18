@@ -101,7 +101,7 @@ menus:
       weight: 1
 
     - name: "Produits"
-      url: "#Products"
+      url: "#products"
       title: "Produits"
       weight: 2
 
